@@ -1,0 +1,19 @@
+name: SpreenMaze
+version: '${project.version}'
+main: im.thatneko.spreenmaze.SpreenMaze
+api-version: 1.17
+authors: [ gatogamer ]
+description: Spreen's maze runner event
+website: https://thatneko.im
+depend:
+  - SpreenCore
+commands:
+  spreenmaze-blocks:
+  lang:
+    aliases: ["language", "idioma", "lenguaje"]
+  spreenmaze-armorprotection:
+  spreenmaze-toggleteamfase:
+  savechests:
+  minero:
+  spectatealltoplayer:
+  unspectateall:

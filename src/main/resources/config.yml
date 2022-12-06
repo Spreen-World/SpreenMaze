@@ -1,0 +1,28 @@
+load-teams: true
+max-per-team: 50
+
+team:
+  a:
+    rejected: world:-129.0:126.0:-1.0
+    accepted: world:-177.0:124.0:1.0
+    door:
+      pos1: world:-166.0:122.0:8.0
+      pos2: world:-151.0:171.0:-6.0
+  b:
+    rejected: world:-8.0:126.0:-131.0
+    accepted: world:-2.0:121.0:-190.0
+    door:
+      pos1: world:-8.0:171.0:-164.0
+      pos2: world:6.0:122.0:-150.0
+  c:
+    rejected: world:126.0:126.0:1.0
+    accepted: world:175.0:126.0:1.0
+    door:
+      pos1: world:-177.0:121.0:1.0
+      pos2: world:164.0:171.0:-7.0
+  d:
+    rejected: world:0.0:127.0:129.0
+    accepted: world:-10.0:125.0:171.0
+    door:
+      pos1: world:-7.0:121.0:151.0
+      pos2: world:7.0:171.0:165.0
